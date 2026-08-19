@@ -8,7 +8,7 @@
 # Dependencies (reinstalled in the build stage)
 /node_modules
 /vendor/bundle
-
+ 
 # Build artifacts (regenerated during the build)
 /app/assets/builds
 /public/assets
